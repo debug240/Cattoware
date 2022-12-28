@@ -1,5 +1,10 @@
 
--- Cattoware Documentation made by Botlag. --
+--[[ 
+
+Cattoware Documentation made by Botlag.
+Felt like making it a really long doc since it looks nice.
+
+]]
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/botlag9803/Cattoware/main/Library"))()
 local Window = Library:CreateWindow("Cattoware Documentation", Vector2.new(492, 598), Enum.KeyCode.RightShift)
