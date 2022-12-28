@@ -3,6 +3,7 @@
 
 Cattoware Documentation made by Botlag.
 Felt like making it a really long doc since it looks nice.
+This is for people who are new to creating scripts and this Library is a good option for people doing so.
 
 ]]
 
